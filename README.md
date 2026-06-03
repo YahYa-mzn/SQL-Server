@@ -1,2 +1,2 @@
-# SQL-Server
+# SQL-Fundemantal-Queries
 SQL Server Practices
